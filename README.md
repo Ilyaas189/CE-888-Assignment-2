@@ -1,5 +1,6 @@
 # CE-888-Assignment-2
 **Three Datasets of Hate, Offensive and Sentiments are used in the assignment.**
+
 One SVC model is trained for all three datasets.
 **Datasets used are uploaded in the Github repository, CE-888 Assignment-2.**
 Each dataset contains train and test text data alongwith labels text.
